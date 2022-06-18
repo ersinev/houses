@@ -1,3 +1,5 @@
+// comment
+
 const houses = [
     {id: 1,
     pand: "huis",
