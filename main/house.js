@@ -1,4 +1,5 @@
 // comment
+// another comment
 
 const houses = [
     {id: 1,
