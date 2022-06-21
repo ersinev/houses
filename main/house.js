@@ -1,7 +1,7 @@
 // comment
 // another comment
 // last comment
-
+// Language: javascript
 const houses = [
   {id: 1,
   pand: "huis",
